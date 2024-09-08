@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Intro
+About Me
 =====
 I am currently working as an AI algorithm researcher at **Toursun Synbio**. In this role, I had the opportunity to work at the intersection of AI and synthetic biology, developing machine learning models to support advancements in scientific research. This experience has deepened my interest in using large language models (LLMs) in specialized domains, such as **AI4Science** and multimodal AI systems, with a focus on leveraging these models to facilitate breakthroughs in scientific discovery.
 
