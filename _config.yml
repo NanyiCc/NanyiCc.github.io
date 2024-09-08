@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Zan Chen / Site Title"
 title_separator          : "-"
 name                     : &name "Zan Chen"
 description              : &description "personal description"
@@ -25,18 +25,18 @@ author:
   name             : "Zan Chen"
   pronouns         : "he/him"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Shanghai, China, Earth"
+  location         : "Shanghai, China"
   employer         : "Tousun Synbio"
   uri              : # URL
-  email            : "cz990816@gmail.com" 
+  email            : "chenzan@tsynbio.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=TYCwuyYAAAAJ"
   impactstory      : # URL
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : # 
   semantic         : # URL
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # 
   researchgate     : # URL
 
   # Repositories and software development
