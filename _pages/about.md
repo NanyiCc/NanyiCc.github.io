@@ -1,13 +1,12 @@
 ---
 permalink: /
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-About Me
-=====
 I am currently working as an AI algorithm researcher at Toursun Synbio. In this role, I had the opportunity to work at the intersection of AI and synthetic biology, developing machine learning models to support advancements in scientific research. This experience has deepened my interest in using **large language models (LLMs)** in specialized domains, such as AI4Science and multimodal AI systems, with a focus on leveraging these models to facilitate breakthroughs in scientific discovery.
 
 My research interests center around **large language models (LLMs)** and **Human-Computer Interaction (HCI)**, with a particular focus on exploring LLMs in specialized fields like AI4Science and developing Multimodal Models that integrate diverse data types. I am passionate about harnessing the power of LLMs to facilitate breakthroughs in domain-specific challenges and improving the collaboration between humans and machines through more intuitive AI systems.
@@ -16,7 +15,7 @@ I hold a bachelor's degree in Computer Science (AI) from Shanghai Normal Univers
 
 ---
 
-# **<span style="color:red">I am actively seeking opportunities to pursue a PhD, driven by my desire to contribute to cutting-edge research in these fields.</span>**
+## **<span style="color:red">I am actively seeking opportunities to pursue a PhD, driven by my desire to contribute to cutting-edge research in these fields.</span>**
 
 
 <!--
