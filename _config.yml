@@ -21,7 +21,7 @@ repository               : "NanyiCc/NanyiCc.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "self_site.png"
   name             : "Zan Chen"
   pronouns         : "he/him"  
   bio              : "AI algorithm researcher specializing in LLMs and their applications in AI4Science and Multimodal systems."

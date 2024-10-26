@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working as an AI algorithm researcher at Toursun Synbio. In this role, I had the opportunity to work at the intersection of AI and synthetic biology, developing machine learning models to support advancements in scientific research. This experience has deepened my interest in using **large language models (LLMs)** in specialized domains, such as AI4Science and multimodal AI systems, with a focus on leveraging these models to facilitate breakthroughs in scientific discovery.
+I am currently working as an AI Algorithm Research Scientist at Toursun Synbio, where I have had the opportunity to work at the intersection of AI and synthetic biology. In this role, I have been deeply involved in developing TourSynbio, a **Large Language Model (LLM)** based framework designed to understand both protein sequences and human language and solve protein engineering tasks.
 
-My research interests center around **large language models (LLMs)** and **Human-Computer Interaction (HCI)**, with a particular focus on exploring LLMs in specialized fields like AI4Science and developing Multimodal Models that integrate diverse data types. I am passionate about harnessing the power of LLMs to facilitate breakthroughs in domain-specific challenges and improving the collaboration between humans and machines through more intuitive AI systems.
+My research interests center around **natural language processing (NLP)** and its applications in **AI for Science**, particularly focus on large language models (LLMs) for biological information and LLM-driven AI agents. I am passionate about harnessing NLP to address domain-specific challenges, integrating diverse biological data for deeper insights, and enhancing scientific workflows through intelligent, task-oriented AI agents.
 
 I hold a bachelor's degree in Computer Science (AI) from Shanghai Normal University and a master's degree in Data Analytics Engineering from Northeastern University. 
 
